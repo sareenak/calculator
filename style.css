@@ -1,5 +1,7 @@
 .calc-screen{
     width: 400px;
     height: 500px;
-    background: lightgray;
+    background: gray;
+    margin-left: 400px;
+    margin-top: 65px;
 }
